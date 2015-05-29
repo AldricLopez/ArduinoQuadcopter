@@ -1,8 +1,11 @@
 # ArduinoQuadcopter
 Quadcopter controller based on Arduino. Currently only supporting X configuration and specific hardware. 
 A video of this proyect working can be seen at: https://www.youtube.com/watch?v=z5Tj1yTc0Bw
-To use this controller, download the whole proyect. Place everything, except the ControlP5 library, that is in the libraries folder into your libraries folder from Arduino. (Documents/Arduino/libraries, see http://www.arduino.cc/en/Guide/Libraries#toc5). Then open the Arduino folder and place the QuadController folder in your sketchbook folder (Documents/Arduino/sketchbook). Finally open the Processing folder and copy everything to your Processing folder. Also copy the ControlP5 library to your processing libraries folder, similar to what you did with Arduino. 
+
+To use this controller, download the whole proyect. Place everything  (except the ControlP5 library) that is in the libraries folder into your libraries folder from Arduino. (Documents/Arduino/libraries, see http://www.arduino.cc/en/Guide/Libraries#toc5). 
+Then open the Arduino folder and place the QuadController folder in your sketchbook folder (Documents/Arduino/sketchbook). Finally open the Processing folder and copy everything to your Processing folder. Also copy the ControlP5 library to your processing libraries folder, similar to what you did with Arduino. 
 Compile and program the Arduino Sketch, then build the Processing sketch and click Send button.
+
 For more information on the controller implementation see the PDF (Spanish) in the Explanation folder.
 
 ##Hardware Required
