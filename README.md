@@ -39,7 +39,7 @@ This is a list of parts to build a quadcopter and controll board that works with
 
 - 1x Orange Rx http://www.hobbyking.com/hobbyking/store/__20684__OrangeRx_R710_DSM2_Compatible_7Ch_w_Failsafe.html
 
-- Kingduino http://www.hobbyking.com/hobbyking/store/__26913__Kingduino_10DOF_L3G4200D_ADXL345_HMC5883L_BMP085_Sensor_Stick_Breakout_for_MWC_KK_ACM.html
+- 1x IMU can be any of the possible IMUs mentioned previously
 
 - Atmega328 (Arduino UNO, or any other arduino with 328) https://www.sparkfun.com/products/10524   
 
