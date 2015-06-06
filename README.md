@@ -22,6 +22,8 @@ Some possible IMUs:
 
 - Ebay http://www.ebay.com/itm/10DOF-9-axis-Attitude-Indicator-L3G4200D-ADXL345-HMC5883L-BMP085-Module-Arduino-/400344896529
 
+- Geetech http://www.geeetech.com/10dof-l3g4200dadxl345hmc5883lbmp085-sensor-stick-breakout-p-545.html
+
 ##PC Software
 There is also a pc software available to monitor the controller and change PID constants. This software is made with Processing and can be found on the Processing folder.
 
