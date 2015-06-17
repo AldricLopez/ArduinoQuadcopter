@@ -11,8 +11,8 @@ For more information on the controller implementation see the PDF (Spanish) in t
 ##Hardware Required
 The costum built controller uses the following sensors connected to an Atmega328 with Arduino bootloader
 
-- Accelerometer	ADXL345 
-- Gyroscope	L3G4200D 
+- Accelerometer	ADXL345* 
+- Gyroscope	L3G4200D*
 - Magnetometer	HMC5883L
 - Barometer	BMP085
 
@@ -23,6 +23,8 @@ Some possible IMUs:
 - Ebay http://www.ebay.com/itm/10DOF-9-axis-Attitude-Indicator-L3G4200D-ADXL345-HMC5883L-BMP085-Module-Arduino-/400344896529
 
 - Geetech http://www.geeetech.com/10dof-l3g4200dadxl345hmc5883lbmp085-sensor-stick-breakout-p-545.html
+
+*Alternative sensors include BMA180 Acc, and ITG3200 Gyro. However changes must be made to the main code.
 
 ##PC Software
 There is also a pc software available to monitor the controller and change PID constants. This software is made with Processing and can be found on the Processing folder.
